@@ -34,7 +34,7 @@ Vou me apresentar para você!</p>
   </p>
   
 Até mais e volte sempre! 🍃🌿🍃<br><br><br>
-A língua é o alicerce da civilização. É a cola que une as pessoas. ⭐<br><br>
+"A língua é o alicerce da civilização. É a cola que une as pessoas." ⭐<br><br>
 <img height="100" src=https://i.pinimg.com/originals/19/5b/24/195b24c5b952d5f8d202660ca5a43de1.gif alt="Filme a chegada"/>
   
   
