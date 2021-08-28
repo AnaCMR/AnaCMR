@@ -1,10 +1,13 @@
+<img align="right" src = "https://th.bing.com/th/id/R.4f05cde98fa54cf42fe371a40dae73a7?rik=6xsWECo00nnEvA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-vLwojYefLmE%2fUc3pFXbWG1I%2fAAAAAAAABeA%2fFBdhrxzacEw%2fs1600%2fivy_001___clear_cut_png_by_seelenwerk-d5lgv1r.png&ehk=x5mvtf7tiNlZthPbhljmaohaQEiKtB1kWDw1YL9YiQU%3d&risl=&pid=ImgRaw&r=0" alt = "planta" height="300px">
+
 <h3>🔔 Oie, que bom que você me achou, seja bem vindo(a) 💐 </h3>
 <br><br>
 
 <p> Fico feliz que tenha encontrado minha página 😃 😃 <br>
 Vou me apresentar para você!</p>
   
-<p> 🌱📚 Meu nome é Ana eu sou formada em psicologia 💜 e estou me desenvolvendo em programação 💻. </p>
+<div align="left">
+  <p> 🌱📚 Meu nome é Ana eu sou formada em psicologia 💜 e estou me desenvolvendo em programação 💻. </p>
 
 <p> 🌾 Essas são as linguagens que estou aprendendo:
   <br>
@@ -23,6 +26,8 @@ Vou me apresentar para você!</p>
   <img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/git.png" alt="Git"/>
    <img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/adobe-xd.png" alt="AdobeXD"/>
   </p>
+  
+  </div>
   
   <p>🌳💬 O que? Minha apresentação não foi suficiente e você quer saber mais sobre meus projetos? Então pode clicar em um dos ícones abaixo: 
   <br>
