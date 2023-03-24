@@ -17,13 +17,12 @@ Vou me apresentar para você!</p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
   </p>
   
-  <p>🌸 E essas são as ferramentas que estou aprendendo a usar para fazer projetos:
+  <p>🌸 E essas são as ferramentas que uso para fazer projetos:
   <br>
   <br>  
   <img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/githubb.png" alt="Github"/>
    <img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/visual-studio-code.png" alt="VSCode"/>
   <img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/git.png" alt="Git"/>
-   <img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/adobe-xd.png" alt="AdobeXD"/>
   </p>
   
   </div>
