@@ -7,7 +7,7 @@
 Vou me apresentar para você!</p>
   
 <div align="left">
-  <p> 🌱📚 Meu nome é Ana eu sou formada em psicologia 💜 e estou me desenvolvendo em programação 💻. </p>
+  <p> 🌱📚 Meu nome é Ana eu sou Engenheira de Software Front End💻. </p>
 
 <p> 🌾 O que eu mais curto é:
   <br>
